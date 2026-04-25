@@ -1,0 +1,2 @@
+Enter a number : 46
+Not a prime number
