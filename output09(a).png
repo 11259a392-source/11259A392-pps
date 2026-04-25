@@ -1,0 +1,4 @@
+Enter two numbers : 2 3 
+Before swap in main : x = 2 , y = 3
+Inside function ( After swap) : a = 3 , b = 2
+After function call in main : x = 2 , y = 3
