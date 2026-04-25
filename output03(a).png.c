@@ -1,0 +1,2 @@
+Enter three numbers :10 90 30
+Biggest number=90
