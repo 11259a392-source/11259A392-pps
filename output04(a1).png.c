@@ -1,0 +1,2 @@
+Enter value of n : 3
+Sum = 6
